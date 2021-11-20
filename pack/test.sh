@@ -1,0 +1,1 @@
+sudo cp -R /home/jonas/Dokumente/GemuesePack/pack/ /home/jonas/.minecraft/resourcepacks/

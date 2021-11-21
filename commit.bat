@@ -2,7 +2,7 @@
 echo "create commit:"
 echo.
 echo.
-set /p msg = "Gib die Commit-Message an: "
+set /p msg="Gib die Commit-Message an: "
 echo.
 git add -A
 echo.
